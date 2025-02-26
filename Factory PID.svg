@@ -1,0 +1,4325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1085"
+   height="727"
+   viewBox="0 0 1085 727"
+   version="1.1"
+   id="svg1812"
+   sodipodi:docname="Factory PID.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1814"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.98899587"
+     inkscape:cx="440.85118"
+     inkscape:cy="363.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1812" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="watermark_linear"
+       x1="50.1818"
+       y1="56"
+       x2="3.49747"
+       y2="-11.9045"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0066FF"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#66CCFF"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(165.08,183.74)"
+     id="Tank1">
+    <g
+       id="shape2">
+      <path
+         stroke="#000000"
+         d="m 0,273 c 1.8,6 10.5,10.4 20.7,10.4 10.2,0 19,-4.4 20.8,-10.4 V 10.3 C 39.7,4.3 30.9,0 20.7,0 10.5,0 1.8,4.3 0,10.3 Z"
+         fill="none"
+         id="path11" />
+    </g>
+    <g
+       transform="translate(0,60.94)"
+       id="group3">
+      <g
+         id="shape4">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path14" />
+      </g>
+      <g
+         transform="translate(0,161.57)"
+         id="shape5">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path17" />
+      </g>
+      <g
+         transform="translate(0,135.72)"
+         id="shape6">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path20" />
+      </g>
+      <g
+         transform="translate(0,113.1)"
+         id="shape7">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path23" />
+      </g>
+      <g
+         transform="translate(0,90.48)"
+         id="shape8">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path26" />
+      </g>
+      <g
+         transform="translate(0,67.86)"
+         id="shape9">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path29" />
+      </g>
+      <g
+         transform="translate(0,45.24)"
+         id="shape10">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path32" />
+      </g>
+      <g
+         transform="translate(0,22.62)"
+         id="shape11">
+        <path
+           stroke="#000000"
+           stroke-dasharray="3, 3"
+           d="M 0,0 H 41.5"
+           fill="none"
+           id="path35" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(130.12,462.48)"
+     id="shape12">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path40" />
+    <text
+       xml:space="preserve"
+       id="text44"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan42">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(303.98,385.95)"
+     id="shape13">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path47" />
+    <text
+       xml:space="preserve"
+       id="text51"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan49">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(124.55,391.05)"
+     id="shape14">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path54" />
+    <text
+       xml:space="preserve"
+       id="text60"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan56">P</tspan><tspan
+         x="9.2061996"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan58">I</tspan></text>
+  </g>
+  <g
+     transform="translate(79.95,470.61)"
+     id="shape15">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path63" />
+    <text
+       xml:space="preserve"
+       id="text69"><tspan
+         x="8.3311996"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan65">L</tspan><tspan
+         x="8.1905746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan67">E</tspan></text>
+  </g>
+  <g
+     transform="translate(79.95,532.02)"
+     id="shape16">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path72" />
+    <text
+       xml:space="preserve"
+       id="text78"><tspan
+         x="8.4561996"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan74">L</tspan><tspan
+         x="8.0968246"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan76">T</tspan></text>
+  </g>
+  <g
+     transform="translate(284.61,411.83)"
+     id="shape17">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path81" />
+    <text
+       xml:space="preserve"
+       id="text87"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan83">P</tspan><tspan
+         x="9.2061996"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan85">I</tspan></text>
+  </g>
+  <g
+     transform="translate(318.62,411.83)"
+     id="shape18">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path90" />
+    <text
+       xml:space="preserve"
+       id="text94"><tspan
+         x="7.0812001"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan92">FI</tspan></text>
+  </g>
+  <g
+     transform="translate(241.52,315.08)"
+     id="shape19">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path97" />
+    <text
+       xml:space="preserve"
+       id="text101"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan99">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(236.89,232.87)"
+     id="shape20">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path104" />
+    <text
+       xml:space="preserve"
+       id="text108"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan106">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(263.82,138.58)"
+     id="shape21">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path111" />
+    <text
+       xml:space="preserve"
+       id="text119"><tspan
+         x="8.2686996"
+         y="2.5030999"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan113">F</tspan><tspan
+         x="7.7062001"
+         y="12.09685"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan115">C</tspan><tspan
+         x="7.6749501"
+         y="21.690599"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan117">V</tspan></text>
+  </g>
+  <g
+     transform="translate(288.2,126.67)"
+     id="shape22">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path122" />
+    <text
+       xml:space="preserve"
+       id="text128"><tspan
+         x="7.7687001"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan124">F </tspan><tspan
+         x="7.4718251"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan126">Y</tspan></text>
+  </g>
+  <g
+     transform="translate(390.62,126.67)"
+     id="shape23">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path131" />
+    <text
+       xml:space="preserve"
+       id="text137"><tspan
+         x="8.2530746"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan133">F</tspan><tspan
+         x="8.0968246"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan135">T</tspan></text>
+  </g>
+  <g
+     transform="translate(377.4,425.44)"
+     id="shape24">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path140" />
+    <text
+       xml:space="preserve"
+       id="text146"><tspan
+         x="7.5108876"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan142">T </tspan><tspan
+         x="7.3858876"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan144">Y</tspan></text>
+  </g>
+  <g
+     transform="translate(397.24,449.82)"
+     id="shape25">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path149" />
+    <text
+       xml:space="preserve"
+       id="text157"><tspan
+         x="8.1905746"
+         y="2.5030999"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan151">T</tspan><tspan
+         x="7.7062001"
+         y="12.09685"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan153">C</tspan><tspan
+         x="7.6749501"
+         y="21.690599"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan155">V</tspan></text>
+  </g>
+  <g
+     transform="translate(345.08,573.98)"
+     id="shape26">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path160" />
+    <text
+       xml:space="preserve"
+       id="text164"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan162">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(597.74,493.85)"
+     id="shape27">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path167" />
+    <text
+       xml:space="preserve"
+       id="text173"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan169">P</tspan><tspan
+         x="9.2061996"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan171">I</tspan></text>
+  </g>
+  <g
+     transform="translate(686.18,486.67)"
+     id="shape28">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path176" />
+    <text
+       xml:space="preserve"
+       id="text182"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan178">P</tspan><tspan
+         x="9.2061996"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan180">I</tspan></text>
+  </g>
+  <g
+     transform="translate(739.47,647.68)"
+     id="shape29">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path185" />
+    <text
+       xml:space="preserve"
+       id="text193"><tspan
+         x="8.4093246"
+         y="2.5030999"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan187">L</tspan><tspan
+         x="7.7062001"
+         y="12.09685"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan189">C</tspan><tspan
+         x="7.6749501"
+         y="21.690599"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan191">V</tspan></text>
+  </g>
+  <g
+     transform="translate(811,604.97)"
+     id="shape30">
+    <path
+       stroke="#000000"
+       d="M 10.6,18.8 V 0 m 0,9.4 H 21.2 M 3.5,0 v 18.8 m 0,-9.4 H -7.1"
+       fill="none"
+       id="path196" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,709.6,622.4)"
+     id="shape31">
+    <path
+       fill="#ffffff"
+       d="m 0,3.9 v 8 l 15.8,-8 v 8 z"
+       id="path199" />
+    <path
+       stroke="#000000"
+       d="m 0,3.9 v 8 l 15.8,-8 v 8 z m 7.9,4 V 0 m -4,0 h 8"
+       fill="none"
+       id="path201" />
+  </g>
+  <g
+     transform="translate(818.09,587.58)"
+     id="shape32">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 23.1"
+       fill="none"
+       id="path204" />
+  </g>
+  <g
+     transform="translate(807.69,566.8)"
+     id="shape33">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path207" />
+    <text
+       xml:space="preserve"
+       id="text211"><tspan
+         x="7.0812001"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan209">FI</tspan></text>
+  </g>
+  <g
+     transform="translate(710.56,660.43)"
+     id="shape34">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path214" />
+    <text
+       xml:space="preserve"
+       id="text220"><tspan
+         x="8.4718246"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan216">L</tspan><tspan
+         x="7.9718251"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan218">Y</tspan></text>
+  </g>
+  <g
+     transform="translate(162.32,531.08)"
+     id="shape35">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path223" />
+    <text
+       xml:space="preserve"
+       id="text227"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan225">6</tspan></text>
+  </g>
+  <g
+     transform="translate(232.54,566.8)"
+     id="shape36">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path230" />
+    <text
+       xml:space="preserve"
+       id="text234"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan232">8</tspan></text>
+  </g>
+  <g
+     transform="translate(200.51,471.55)"
+     id="shape37">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path237" />
+    <text
+       xml:space="preserve"
+       id="text241"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan239">9</tspan></text>
+  </g>
+  <g
+     transform="translate(226.97,448.87)"
+     id="shape38">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path244" />
+    <text
+       xml:space="preserve"
+       id="text248"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan246">7</tspan></text>
+  </g>
+  <g
+     transform="translate(457.62,541.47)"
+     id="shape39">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path251" />
+    <text
+       xml:space="preserve"
+       id="text255"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan253">4</tspan></text>
+  </g>
+  <g
+     transform="translate(466.03,507.4)"
+     id="shape40">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path258" />
+    <text
+       xml:space="preserve"
+       id="text262"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan260">3</tspan></text>
+  </g>
+  <g
+     transform="translate(533.58,522.58)"
+     id="shape41">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path265" />
+    <text
+       xml:space="preserve"
+       id="text269"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan267">6</tspan></text>
+  </g>
+  <g
+     transform="matrix(-0.71,-0.71,-0.71,0.71,99,328.3)"
+     id="group42">
+    <g
+       transform="translate(0,-0.01)"
+       id="shape43">
+      <path
+         fill="#ffffff"
+         d="M 0,14.1 C 0,6.3 6.3,0 14.1,0 21.9,0 28.2,6.3 28.2,14.1 28.2,21.9 21.9,28.2 14.1,28.2 6.3,28.2 0,21.9 0,14.1 Z"
+         stroke="#000000"
+         id="path272" />
+    </g>
+    <g
+       transform="matrix(0.71,-0.71,0.71,0.71,4.1,24.1)"
+       id="shape44">
+      <path
+         fill="#000000"
+         d="M 0,0 C 0,0 27.8,0.4 28.2,0 28.2,7.8 21.9,14.1 14.1,14.1 6.3,14.1 0,7.8 0,0 Z"
+         stroke="#000000"
+         id="path275" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.71,-0.71,0.71,0.71,910.9,435.8)"
+     id="group45">
+    <g
+       transform="translate(0,-0.01)"
+       id="shape46">
+      <path
+         fill="#ffffff"
+         d="M 0,14.1 C 0,6.3 6.3,0 14.1,0 21.9,0 28.2,6.3 28.2,14.1 28.2,21.9 21.9,28.2 14.1,28.2 6.3,28.2 0,21.9 0,14.1 Z"
+         stroke="#000000"
+         id="path279" />
+    </g>
+    <g
+       transform="matrix(0.71,-0.71,0.71,0.71,4.1,24.1)"
+       id="shape47">
+      <path
+         fill="#000000"
+         d="M 0,0 C 0,0 27.8,0.4 28.2,0 28.2,7.8 21.9,14.1 14.1,14.1 6.3,14.1 0,7.8 0,0 Z"
+         stroke="#000000"
+         id="path282" />
+    </g>
+  </g>
+  <g
+     transform="translate(813.84,401.44)"
+     id="shape48">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path286" />
+    <text
+       xml:space="preserve"
+       id="text294"><tspan
+         x="8.4093246"
+         y="2.5030999"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan288">L</tspan><tspan
+         x="7.7062001"
+         y="12.09685"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan290">C</tspan><tspan
+         x="7.6749501"
+         y="21.690599"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan292">V</tspan></text>
+  </g>
+  <g
+     transform="translate(795.6,364.21)"
+     id="shape49">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path297" />
+    <text
+       xml:space="preserve"
+       id="text303"><tspan
+         x="8.4718246"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan299">L</tspan><tspan
+         x="7.9718251"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan301">Y</tspan></text>
+  </g>
+  <g
+     transform="translate(724.36,391.05)"
+     id="shape50">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path306" />
+    <text
+       xml:space="preserve"
+       id="text310"><tspan
+         x="7.0812001"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan308">FI</tspan></text>
+  </g>
+  <g
+     transform="translate(695.63,243.27)"
+     id="shape51">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path313" />
+    <text
+       xml:space="preserve"
+       id="text317"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan315">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(454.31,374.61)"
+     id="shape52">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path320" />
+    <text
+       xml:space="preserve"
+       id="text324"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan322">5</tspan></text>
+  </g>
+  <g
+     transform="translate(625.24,519.74)"
+     id="shape53">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path327" />
+    <text
+       xml:space="preserve"
+       id="text331"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan329">6</tspan></text>
+  </g>
+  <g
+     transform="translate(652.64,393.5)"
+     id="shape54">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path334" />
+    <text
+       xml:space="preserve"
+       id="text338"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan336">6</tspan></text>
+  </g>
+  <g
+     transform="translate(793.24,454.07)"
+     id="shape55">
+    <path
+       fill="#ffffff"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z"
+       id="path341" />
+    <path
+       stroke="#000000"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z M 8.4,8.4 V 0 M 4.2,0 h 8.4"
+       fill="none"
+       id="path343" />
+  </g>
+  <g
+     transform="translate(480.2,299.02)"
+     id="shape56">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path346" />
+    <text
+       xml:space="preserve"
+       id="text350"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan348">7</tspan></text>
+  </g>
+  <g
+     transform="translate(535.47,300.91)"
+     id="shape57">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path353" />
+    <text
+       xml:space="preserve"
+       id="text357"><tspan
+         x="7.0187001"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan355">Ti</tspan></text>
+  </g>
+  <g
+     transform="translate(561.65,300.91)"
+     id="shape58">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path360" />
+    <text
+       xml:space="preserve"
+       id="text366"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan362">P</tspan><tspan
+         x="9.3155746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan364">i</tspan></text>
+  </g>
+  <g
+     transform="translate(552.67,271.61)"
+     id="shape59">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path369" />
+    <text
+       xml:space="preserve"
+       id="text373"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan371">2</tspan></text>
+  </g>
+  <g
+     transform="translate(622.59,244.21)"
+     id="shape60">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path376" />
+    <text
+       xml:space="preserve"
+       id="text380"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan378">6</tspan></text>
+  </g>
+  <g
+     transform="translate(567.79,217.19)"
+     id="shape61">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path383" />
+    <text
+       xml:space="preserve"
+       id="text387"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan385">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(463.66,179.96)"
+     id="shape62">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path390" />
+    <text
+       xml:space="preserve"
+       id="text396"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan392">P</tspan><tspan
+         x="7.9718251"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan394">Y</tspan></text>
+  </g>
+  <g
+     transform="translate(459.98,222.48)"
+     id="shape63">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path399" />
+    <text
+       xml:space="preserve"
+       id="text407"><tspan
+         x="7.9405751"
+         y="2.5030999"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan401">P</tspan><tspan
+         x="7.7062001"
+         y="12.09685"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan403">C</tspan><tspan
+         x="7.6749501"
+         y="21.690599"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan405">V</tspan></text>
+  </g>
+  <g
+     transform="translate(463.66,110.04)"
+     id="shape64">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path410" />
+    <text
+       xml:space="preserve"
+       id="text416"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan412">P</tspan><tspan
+         x="8.0968246"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan414">T</tspan></text>
+  </g>
+  <g
+     transform="translate(463.66,83.58)"
+     id="shape65">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path419" />
+    <text
+       xml:space="preserve"
+       id="text425"><tspan
+         x="7.9405751"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan421">P</tspan><tspan
+         x="8.1905746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan423">E</tspan></text>
+  </g>
+  <g
+     transform="translate(576.29,106.83)"
+     id="shape66">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path428" />
+    <text
+       xml:space="preserve"
+       id="text432"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan430">7</tspan></text>
+  </g>
+  <g
+     transform="translate(541.62,126.67)"
+     id="shape67">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path435" />
+    <text
+       xml:space="preserve"
+       id="text439"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan437">9</tspan></text>
+  </g>
+  <g
+     transform="translate(657.36,146.51)"
+     id="shape68">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path442" />
+    <text
+       xml:space="preserve"
+       id="text446"><tspan
+         x="6.9093251"
+         y="12.096825"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan444">TI</tspan></text>
+  </g>
+  <g
+     transform="translate(715.87,272.56)"
+     id="shape69">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path449" />
+    <text
+       xml:space="preserve"
+       id="text453"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan451">1</tspan></text>
+  </g>
+  <g
+     transform="translate(129.74,132.34)"
+     id="shape70">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path456" />
+    <text
+       xml:space="preserve"
+       id="text460"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan458">7</tspan></text>
+  </g>
+  <g
+     transform="translate(230.75,356.65)"
+     id="shape71">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path463" />
+    <text
+       xml:space="preserve"
+       id="text467"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan465">5</tspan></text>
+  </g>
+  <g
+     transform="translate(123.03,356.65)"
+     id="shape72">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path470" />
+    <text
+       xml:space="preserve"
+       id="text474"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan472">5</tspan></text>
+  </g>
+  <g
+     transform="translate(121.14,283.9)"
+     id="shape73">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 16 V 20.7 H 0 Z"
+       stroke="#000000"
+       id="path477" />
+    <text
+       xml:space="preserve"
+       id="text481"><tspan
+         x="5.2814999"
+         y="12.29995"
+         style="font-weight:normal;font-size:9.33333px;font-family:'Browallia New';fill:#303030"
+         id="tspan479">5</tspan></text>
+  </g>
+  <g
+     transform="translate(840.86,74.76)"
+     id="group74">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape75">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path484" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape76">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path487" />
+    </g>
+    <g
+       id="shape77">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path490" />
+    </g>
+  </g>
+  <g
+     transform="translate(185.87,183.74)"
+     id="Line1">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -131.4 H 451.1 V 4.1"
+       fill="none"
+       id="path494" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 451.1,7.5 3,-4.2 v 0 c -0.9,0.5 -1.9,0.8 -3,0.8 -1.1,0 -2.1,-0.3 -3,-0.8 z"
+       id="path496" />
+  </g>
+  <g
+     transform="translate(116.04,547.03)"
+     id="group79">
+    <g
+       id="shape80">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path499" />
+      <text
+         xml:space="preserve"
+         id="text507"><tspan
+           x="8.2686996"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan501">L</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan503">A</tspan><tspan
+           x="7.2999501"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan505">H</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape81">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path510" />
+    </g>
+  </g>
+  <g
+     transform="translate(117.73,571.46)"
+     id="group82">
+    <g
+       id="shape83">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path514" />
+      <text
+         xml:space="preserve"
+         id="text522"><tspan
+           x="8.2686996"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan516">L</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan518">A</tspan><tspan
+           x="8.3311996"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan520">L</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape84">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path525" />
+    </g>
+  </g>
+  <g
+     transform="rotate(-90,419.15,153.85)"
+     id="shape85">
+    <path
+       fill="#ffffff"
+       d="M 0,21.5 H 69.6 V 0 H 0 Z"
+       id="path529" />
+    <path
+       stroke="#000000"
+       d="m 5.8,16.1 h 58 M 5.8,5.3 h 58 m -58,5.4 h 58 M 63.8,0 V 21.5 M 5.8,0 V 21.5 M 0,21.5 H 69.6 V 0 H 0 Z"
+       fill="none"
+       id="path531" />
+  </g>
+  <g
+     transform="translate(92.8,328.31)"
+     id="shape86">
+    <path
+       stroke="#000000"
+       d="M 0,0 67.8,-0.1"
+       fill="none"
+       id="path534" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 71.2,-0.1 -4.2,-3 v 0 c 0.5,0.9 0.8,2 0.8,3 0,1.1 -0.3,2.2 -0.8,3 z"
+       id="path536" />
+  </g>
+  <g
+     transform="translate(110.37,325.37)"
+     id="group87">
+    <g
+       id="shape88">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path539" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape89">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path542" />
+    </g>
+  </g>
+  <g
+     transform="translate(132.48,328.31)"
+     id="shape90">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 18.2 V 28.3 H -1.5"
+       fill="none"
+       id="path546" />
+  </g>
+  <g
+     transform="rotate(-90,238,109.2)"
+     id="group91">
+    <g
+       id="shape92">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path549" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape93">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path552" />
+    </g>
+  </g>
+  <g
+     transform="translate(1016.5,401.85)"
+     id="shape94">
+    <path
+       stroke="#000000"
+       d=""
+       fill="none"
+       id="path556" />
+  </g>
+  <g
+     transform="translate(1016.5,401.85)"
+     id="shape95">
+    <path
+       stroke="#000000"
+       d=""
+       fill="none"
+       id="path559" />
+  </g>
+  <g
+     transform="translate(1016.5,401.85)"
+     id="shape96">
+    <path
+       stroke="#000000"
+       d=""
+       fill="none"
+       id="path562" />
+  </g>
+  <g
+     transform="translate(129.17,283.9)"
+     id="shape97">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -28.4 H 35.7"
+       fill="none"
+       id="path565" />
+  </g>
+  <g
+     transform="rotate(-90,200.8,74)"
+     id="group98">
+    <g
+       id="shape99">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path568" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape100">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path571" />
+    </g>
+  </g>
+  <g
+     transform="translate(137.77,153.13)"
+     id="shape101">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 14.5 H 31.5 V 36.2"
+       fill="none"
+       id="path575" />
+  </g>
+  <g
+     transform="translate(206.5,206.42)"
+     id="Line4">
+    <path
+       stroke="#000000"
+       d="M 6,0 H 217 V 231.3 H 514"
+       fill="none"
+       id="path578" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="M 6,3 1,0 6,-3 Z"
+       id="path580" />
+  </g>
+  <g
+     transform="translate(727.66,428.28)"
+     id="shape103">
+    <path
+       stroke="#000000"
+       d="M 10.6,18.8 V 0 m 0,9.4 H 21.2 M 3.5,0 v 18.8 m 0,-9.4 H -7.1"
+       fill="none"
+       id="path583" />
+  </g>
+  <g
+     transform="translate(748.92,437.72)"
+     id="shape104">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 163.8 V -0.6"
+       fill="none"
+       id="path586" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 166.3,-0.6 -4.2,-3 v 0 c 0.5,0.9 0.8,2 0.8,3 0,1.1 -0.3,2.2 -0.8,3 z"
+       id="path588" />
+  </g>
+  <g
+     transform="translate(764.23,434.79)"
+     id="group105">
+    <g
+       id="shape106">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path591" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape107">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path594" />
+    </g>
+  </g>
+  <g
+     transform="translate(836.99,434.79)"
+     id="group108">
+    <g
+       id="shape109">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path598" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape110">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path601" />
+    </g>
+  </g>
+  <g
+     transform="translate(798.62,430.35)"
+     id="shape111">
+    <path
+       fill="#ffffff"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 4.4,1.8 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       id="path605" />
+    <path
+       stroke="#000000"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 7.3,7.3 V 1.8 m -2.9,0 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       fill="none"
+       id="path607" />
+  </g>
+  <g
+     transform="translate(869.3,431.74)"
+     id="group112">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape113">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path610" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape114">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path613" />
+    </g>
+    <g
+       id="shape115">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path616" />
+    </g>
+  </g>
+  <g
+     transform="translate(720.58,437.72)"
+     id="shape116">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 24.7 H 137.2 V 0.1"
+       fill="none"
+       id="path620" />
+  </g>
+  <g
+     transform="translate(578.72,192.24)"
+     id="shape117">
+    <path
+       fill="#ffffff"
+       d="M 0,20.7 H 79.6 V 0 H 0 Z"
+       id="path623" />
+    <path
+       stroke="#000000"
+       d="M 6.6,15.5 H 72.9 M 6.6,5.1 H 72.9 M 6.6,10.3 H 72.9 M 72.9,0 V 20.7 M 6.6,0 V 20.7 M 0,20.7 H 79.6 V 0 H 0 Z"
+       fill="none"
+       id="path625" />
+  </g>
+  <g
+     transform="translate(134.94,411.83)"
+     id="shape118">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 14.4 H 30.6"
+       fill="none"
+       id="path628" />
+  </g>
+  <g
+     transform="translate(164.92,436.02)"
+     id="shape119">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -74.6 V 96"
+       fill="none"
+       id="path631" />
+  </g>
+  <g
+     transform="translate(165.24,442.01)"
+     id="shape120">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -24.8 V 20.4"
+       fill="none"
+       id="path634" />
+  </g>
+  <g
+     transform="translate(169.81,531.08)"
+     id="shape121">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -68.3"
+       fill="none"
+       id="path637" />
+  </g>
+  <g
+     transform="rotate(-90,338.05,170.65)"
+     id="group122">
+    <g
+       id="shape123">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path640" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape124">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path643" />
+    </g>
+  </g>
+  <g
+     transform="translate(803.91,614.42)"
+     id="Line5">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -618.1 V -147.3"
+       fill="none"
+       id="path647" />
+  </g>
+  <g
+     transform="translate(917.5,600.24)"
+     id="group126">
+    <g
+       transform="translate(0,-0.01)"
+       id="shape127">
+      <path
+         fill="#ffffff"
+         d="M 0,14.1 C 0,6.3 6.3,0 14.1,0 21.9,0 28.2,6.3 28.2,14.1 28.2,21.9 21.9,28.2 14.1,28.2 6.3,28.2 0,21.9 0,14.1 Z"
+         stroke="#000000"
+         id="path650" />
+    </g>
+    <g
+       transform="rotate(-90,21.15,7.05)"
+       id="shape128">
+      <path
+         fill="#000000"
+         d="M 0,0 C 0,0 27.8,0.4 28.2,0 28.2,7.8 21.9,14.1 14.1,14.1 6.3,14.1 0,7.8 0,0 Z"
+         stroke="#000000"
+         id="path653" />
+    </g>
+  </g>
+  <g
+     transform="translate(832.26,614.42)"
+     id="shape129">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 80.8"
+       fill="none"
+       id="path657" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="M 84.2,0 80,-3 v 0 c 0.5,0.8 0.8,1.9 0.8,3 0,1 -0.3,2.1 -0.8,2.9 z"
+       id="path659" />
+  </g>
+  <g
+     transform="translate(838.88,608.24)"
+     id="group130">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape131">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path662" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape132">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path665" />
+    </g>
+    <g
+       id="shape133">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path668" />
+    </g>
+  </g>
+  <g
+     transform="translate(720.83,636.72)"
+     id="shape134">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 0.1 V 23.7"
+       fill="none"
+       id="path672" />
+  </g>
+  <g
+     transform="translate(669.43,614.54)"
+     id="shape135">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 22.1 H 104.3 V -0.6"
+       fill="none"
+       id="path675" />
+  </g>
+  <g
+     transform="translate(680.8,633.87)"
+     id="group136">
+    <g
+       id="shape137">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path678" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape138">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path681" />
+    </g>
+  </g>
+  <g
+     transform="translate(752.14,633.87)"
+     id="group139">
+    <g
+       id="shape140">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path685" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape141">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path688" />
+    </g>
+  </g>
+  <g
+     transform="translate(718.1,643.77)"
+     id="shape142">
+    <path
+       fill="#ffffff"
+       d="M 0,0 H 5.7 L 2.8,4.7 Z"
+       stroke="#000000"
+       id="path692" />
+  </g>
+  <g
+     transform="translate(718.06,648.81)"
+     id="shape143">
+    <path
+       stroke="#000000"
+       d="M 0,3.5 5.5,0"
+       fill="none"
+       id="path695" />
+  </g>
+  <g
+     transform="translate(718.28,649.95)"
+     id="shape144">
+    <path
+       stroke="#000000"
+       d="M 0,3.5 5.5,0"
+       fill="none"
+       id="path698" />
+  </g>
+  <g
+     transform="translate(718.07,654.35)"
+     id="shape145">
+    <path
+       stroke="#000000"
+       d="M 0,3.5 5.5,0"
+       fill="none"
+       id="path701" />
+  </g>
+  <g
+     transform="translate(718.29,655.49)"
+     id="shape146">
+    <path
+       stroke="#000000"
+       d="M 0,3.5 5.5,0"
+       fill="none"
+       id="path704" />
+  </g>
+  <g
+     transform="translate(90.34,552.81)"
+     id="shape147">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V 118 H 620.2"
+       fill="none"
+       id="path707" />
+  </g>
+  <g
+     transform="translate(79.95,587.97)"
+     id="group148">
+    <g
+       id="shape149">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path710" />
+      <text
+         xml:space="preserve"
+         id="text716"><tspan
+           x="7.1593251"
+           y="7.2999501"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan712">LI</tspan><tspan
+           x="7.7062001"
+           y="16.8937"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan714">C</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape150">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path719" />
+    </g>
+  </g>
+  <g
+     transform="translate(90.34,552.81)"
+     id="shape151">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V 4.6 H 25.7"
+       fill="none"
+       id="path723" />
+  </g>
+  <g
+     transform="translate(90.34,587.97)"
+     id="shape152">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V -6.2 H 27.3"
+       fill="none"
+       id="path726" />
+  </g>
+  <g
+     transform="translate(720.57,641.46)"
+     id="shape153">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 6 V 11.4 H 20.3"
+       fill="none"
+       id="path729" />
+  </g>
+  <g
+     transform="translate(714.18,633.11)"
+     id="group154">
+    <g
+       id="shape155">
+      <path
+         fill="#ffffff"
+         d="M 6.7,3.6 0,7.3 V 0 Z"
+         stroke="#000000"
+         id="path732" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,13.5,0)"
+       id="shape156">
+      <path
+         fill="#ffffff"
+         d="M 6.7,3.6 0,7.3 V 0 Z"
+         stroke="#000000"
+         id="path735" />
+    </g>
+  </g>
+  <g
+     transform="translate(314.37,335.18)"
+     id="group157">
+    <g
+       id="shape158">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path739" />
+      <text
+         xml:space="preserve"
+         id="text747"><tspan
+           x="8.2530746"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan741">T</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan743">A</tspan><tspan
+           x="8.3311996"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan745">L</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape159">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path750" />
+    </g>
+  </g>
+  <g
+     transform="translate(314.37,278.23)"
+     id="group160">
+    <g
+       id="shape161">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path754" />
+      <text
+         xml:space="preserve"
+         id="text762"><tspan
+           x="8.2530746"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan756">T</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan758">A</tspan><tspan
+           x="7.2999501"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan760">H</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape162">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path765" />
+    </g>
+  </g>
+  <g
+     transform="translate(377.4,304.69)"
+     id="group163">
+    <g
+       id="shape164">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path769" />
+      <text
+         xml:space="preserve"
+         id="text777"><tspan
+           x="8.0968246"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan771">T</tspan><tspan
+           x="7.7999501"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan773">R</tspan><tspan
+           x="7.7062001"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan775">C</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape165">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path780" />
+    </g>
+  </g>
+  <g
+     transform="translate(236.89,243.27)"
+     id="shape166">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -14.3 V 0.3 H -30.6"
+       fill="none"
+       id="path784" />
+  </g>
+  <g
+     transform="translate(206.66,325.47)"
+     id="shape167">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 34.8"
+       fill="none"
+       id="path787" />
+  </g>
+  <g
+     transform="translate(206.31,340.65)"
+     id="shape168">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 32.4 V 15.9"
+       fill="none"
+       id="path790" />
+  </g>
+  <g
+     transform="rotate(-90,294.2,58.4)"
+     id="group169">
+    <g
+       id="shape170">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path793" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape171">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path796" />
+    </g>
+  </g>
+  <g
+     transform="translate(206.31,434.89)"
+     id="shape172">
+    <path
+       stroke="#000000"
+       d="M 6,0 H 69.7 V 68.4"
+       fill="none"
+       id="path800" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="M 6,3 1,0 6,-3 Z"
+       id="path802" />
+  </g>
+  <g
+     transform="translate(220.73,428.53)"
+     id="group173">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape174">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path805" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape175">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path808" />
+    </g>
+    <g
+       id="shape176">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path811" />
+    </g>
+  </g>
+  <g
+     transform="translate(256.73,384.06)"
+     id="shape177">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path815" />
+    <text
+       xml:space="preserve"
+       id="text821"><tspan
+         x="8.0499496"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan817">T</tspan><tspan
+         x="8.0968246"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan819">T</tspan></text>
+  </g>
+  <g
+     transform="translate(206.56,395.83)"
+     id="shape178">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -1.4 H 50.1"
+       fill="none"
+       id="path824" />
+  </g>
+  <g
+     transform="translate(277.52,394.45)"
+     id="shape179">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 10.4 V -79.4 H 99.8"
+       fill="none"
+       id="path827" />
+  </g>
+  <g
+     transform="translate(324.76,299.02)"
+     id="shape180">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V 31.7"
+       fill="none"
+       id="path830" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 0,35.1 3,-4.2 v 0 c -0.9,0.5 -2,0.8 -3,0.8 -1.1,0 -2.2,-0.3 -3,-0.8 z"
+       id="path832" />
+  </g>
+  <g
+     transform="translate(387.79,325.47)"
+     id="shape181">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V 99.9"
+       fill="none"
+       id="path835" />
+  </g>
+  <g
+     transform="translate(387.79,446.23)"
+     id="shape182">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 22.7 H 0.1 V 38.8"
+       fill="none"
+       id="path838" />
+  </g>
+  <g
+     transform="translate(192.01,466.26)"
+     id="shape183">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 132.2 H 84 V 111.1"
+       fill="none"
+       id="path841" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 84,107.7 -3,4.2 v 0 c 0.9,-0.6 2,-0.8 3,-0.8 1.1,0 2.2,0.2 3,0.8 z"
+       id="path843" />
+  </g>
+  <g
+     transform="translate(208.54,492.34)"
+     id="shape184">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 17.3 H 16.5 V 45.7 H 56.7"
+       fill="none"
+       id="path846" />
+  </g>
+  <g
+     transform="translate(214.88,489.31)"
+     id="group185">
+    <g
+       transform="translate(0,9.07)"
+       id="shape186">
+      <path
+         fill="#ffffff"
+         d="M 0,0 V 20.4 H 20.4 Z"
+         stroke="#000000"
+         id="path849" />
+    </g>
+    <g
+       id="shape187">
+      <path
+         stroke="#000000"
+         d="M 0,29.4 10.2,19.2 V 0"
+         fill="none"
+         id="path852" />
+    </g>
+    <g
+       transform="translate(7.69,0.5)"
+       id="shape188">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path855" />
+    </g>
+    <g
+       transform="translate(7.69,2.02)"
+       id="shape189">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path858" />
+    </g>
+    <g
+       transform="translate(7.69,7.12)"
+       id="shape190">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path861" />
+    </g>
+    <g
+       transform="translate(7.69,8.63)"
+       id="shape191">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path864" />
+    </g>
+  </g>
+  <g
+     transform="translate(241.71,468.53)"
+     id="group192">
+    <g
+       transform="translate(0,9.07)"
+       id="shape193">
+      <path
+         fill="#ffffff"
+         d="M 0,0 V 20.4 H 20.4 Z"
+         stroke="#000000"
+         id="path868" />
+    </g>
+    <g
+       id="shape194">
+      <path
+         stroke="#000000"
+         d="M 0,29.4 10.2,19.2 V 0"
+         fill="none"
+         id="path871" />
+    </g>
+    <g
+       transform="translate(7.69,0.5)"
+       id="shape195">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path874" />
+    </g>
+    <g
+       transform="translate(7.69,2.02)"
+       id="shape196">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path877" />
+    </g>
+    <g
+       transform="translate(7.69,7.12)"
+       id="shape197">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path880" />
+    </g>
+    <g
+       transform="translate(7.69,8.63)"
+       id="shape198">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path883" />
+    </g>
+  </g>
+  <g
+     transform="translate(235,469.66)"
+     id="shape199">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 18.8 H 16.9 V 39 h 12.8"
+       fill="none"
+       id="path887" />
+  </g>
+  <g
+     transform="translate(240.58,566.79)"
+     id="shape200">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -15 H 217"
+       fill="none"
+       id="path890" />
+  </g>
+  <g
+     transform="translate(379.19,545.67)"
+     id="group201">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape202">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path893" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape203">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path896" />
+    </g>
+    <g
+       id="shape204">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path899" />
+    </g>
+  </g>
+  <g
+     transform="translate(313.9,541.73)"
+     id="group205">
+    <g
+       transform="translate(0.45)"
+       id="shape206">
+      <path
+         fill="#ffffff"
+         d="M 0,9.9 C 0,4.4 4.2,0 9.4,0 c 5.2,0 9.5,4.4 9.5,9.9 0,5.5 -4.3,9.9 -9.5,9.9 C 4.2,19.8 0,15.4 0,9.9 Z"
+         stroke="#000000"
+         id="path903" />
+    </g>
+    <g
+       transform="translate(3.08,3.08)"
+       id="group207">
+      <g
+         id="shape208">
+        <path
+           stroke="#000000"
+           d="M 0,0 13.6,13.6"
+           fill="none"
+           id="path906" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,13.7,0)"
+         id="shape209">
+        <path
+           stroke="#000000"
+           d="M 0,0 13.6,13.6"
+           fill="none"
+           id="path909" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(247.47,548.72)"
+     id="group210">
+    <g
+       id="shape211">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path914" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape212">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path917" />
+    </g>
+  </g>
+  <g
+     transform="translate(430.12,548.72)"
+     id="group213">
+    <g
+       id="shape214">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path921" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape215">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path924" />
+    </g>
+  </g>
+  <g
+     transform="translate(321.98,508.34)"
+     id="shape216">
+    <path
+       stroke="#000000"
+       d="M 10.6,18.8 V 0 m 0,9.4 H 21.2 M 3.5,0 v 18.8 m 0,-9.4 H -7.1"
+       fill="none"
+       id="path928" />
+  </g>
+  <g
+     transform="translate(314.89,517.79)"
+     id="shape217">
+    <path
+       stroke="#000000"
+       d="m 0,0 h -12.1 v 0.4 h -16"
+       fill="none"
+       id="path931" />
+  </g>
+  <g
+     transform="translate(295,432.62)"
+     id="shape218">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 73.7 H 0.9 V 85.2"
+       fill="none"
+       id="path934" />
+  </g>
+  <g
+     transform="translate(314.89,517.79)"
+     id="shape219">
+    <path
+       stroke="#000000"
+       d="m 0,0 v -79.1 h -0.6 v -32"
+       fill="none"
+       id="path937" />
+  </g>
+  <g
+     transform="translate(329.02,432.62)"
+     id="shape220">
+    <path
+       stroke="#000000"
+       d="m 0,0 v 43.7 0 41.4"
+       fill="none"
+       id="path940" />
+  </g>
+  <g
+     transform="translate(343.24,517.79)"
+     id="shape221">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 122.7"
+       fill="none"
+       id="path943" />
+  </g>
+  <g
+     transform="translate(343.24,517.79)"
+     id="shape222">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -25.5 H 98.5 V 0.4"
+       fill="none"
+       id="path946" />
+  </g>
+  <g
+     transform="translate(348.2,489.4)"
+     id="group223">
+    <g
+       id="shape224">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path949" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape225">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path952" />
+    </g>
+  </g>
+  <g
+     transform="translate(380.42,484.97)"
+     id="shape226">
+    <path
+       fill="#ffffff"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 4.4,1.8 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       id="path956" />
+    <path
+       stroke="#000000"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 7.3,7.3 V 1.8 m -2.9,0 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       fill="none"
+       id="path958" />
+  </g>
+  <g
+     transform="translate(419.92,489.4)"
+     id="group227">
+    <g
+       id="shape228">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path961" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape229">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path964" />
+    </g>
+  </g>
+  <g
+     transform="translate(399.13,511.8)"
+     id="group230">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape231">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path968" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape232">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path971" />
+    </g>
+    <g
+       id="shape233">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path974" />
+    </g>
+  </g>
+  <g
+     transform="translate(371.73,509.38)"
+     id="shape234">
+    <path
+       fill="#ffffff"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z"
+       id="path978" />
+    <path
+       stroke="#000000"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z M 8.4,8.4 V 0 M 4.2,0 h 8.4"
+       fill="none"
+       id="path980" />
+  </g>
+  <g
+     transform="translate(395.16,492.34)"
+     id="shape235">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 12.4 V -21.8"
+       fill="none"
+       id="path983" />
+  </g>
+  <g
+     transform="translate(286.59,197.54)"
+     id="shape236">
+    <path
+       fill="#ffffff"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z"
+       id="path986" />
+    <path
+       stroke="#000000"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z M 8.4,8.4 V 0 M 4.2,0 h 8.4"
+       fill="none"
+       id="path988" />
+  </g>
+  <g
+     transform="translate(246.18,207.36)"
+     id="shape237">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -26.6 H 105.1 V -5.7"
+       fill="none"
+       id="path991" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 105.1,-2.3 3,-4.2 v 0 c -0.8,0.5 -1.9,0.8 -3,0.8 -1,0 -2.1,-0.3 -3,-0.8 z"
+       id="path993" />
+  </g>
+  <g
+     transform="translate(257.35,177.88)"
+     id="group238">
+    <g
+       id="shape239">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path996" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape240">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path999" />
+    </g>
+  </g>
+  <g
+     transform="translate(291.22,173.45)"
+     id="shape241">
+    <path
+       fill="#ffffff"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 4.4,1.8 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       id="path1003" />
+    <path
+       stroke="#000000"
+       d="M 0,11 V 3.6 L 14.7,11 V 3.6 Z M 7.3,7.3 V 1.8 m -2.9,0 h 5.9 v 0 C 9.7,0.7 8.6,0 7.3,0 6,0 4.9,0.7 4.4,1.8 Z"
+       fill="none"
+       id="path1005" />
+  </g>
+  <g
+     transform="translate(329.06,177.88)"
+     id="group242">
+    <g
+       id="shape243">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1008" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape244">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1011" />
+    </g>
+  </g>
+  <g
+     transform="translate(298.59,147.46)"
+     id="shape245">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 9.9 H -0.5 V 25.8"
+       fill="none"
+       id="path1015" />
+  </g>
+  <g
+     transform="translate(291.22,180.82)"
+     id="shape246">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -17.1 V -21.5"
+       fill="none"
+       id="path1018" />
+  </g>
+  <g
+     transform="translate(345.08,96.43)"
+     id="group247">
+    <g
+       id="shape248">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1021" />
+      <text
+         xml:space="preserve"
+         id="text1029"><tspan
+           x="8.4093246"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1023">F</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1025">A</tspan><tspan
+           x="8.3311996"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1027">L</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape249">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1032" />
+    </g>
+  </g>
+  <g
+     transform="translate(370.03,96.43)"
+     id="group250">
+    <g
+       id="shape251">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1036" />
+      <text
+         xml:space="preserve"
+         id="text1044"><tspan
+           x="8.4093246"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1038">F</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1040">A</tspan><tspan
+           x="7.2999501"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1042">H</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape252">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1047" />
+    </g>
+  </g>
+  <g
+     transform="translate(308.99,137.06)"
+     id="shape253">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 46.4 V -19.9"
+       fill="none"
+       id="path1051" />
+  </g>
+  <g
+     transform="translate(308.99,137.06)"
+     id="shape254">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 71.4 V -19.9"
+       fill="none"
+       id="path1054" />
+  </g>
+  <g
+     transform="translate(308.99,137.06)"
+     id="shape255">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 81.6"
+       fill="none"
+       id="path1057" />
+  </g>
+  <g
+     transform="translate(401.02,147.46)"
+     id="shape256">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -1 V 58.6"
+       fill="none"
+       id="path1060" />
+  </g>
+  <g
+     transform="translate(390.62,162.95)"
+     id="shape257">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path1063" />
+    <text
+       xml:space="preserve"
+       id="text1069"><tspan
+         x="8.2686996"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1065">F</tspan><tspan
+         x="8.1905746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1067">E</tspan></text>
+  </g>
+  <g
+     transform="translate(430.5,128.18)"
+     id="group258">
+    <g
+       id="shape259">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1072" />
+      <text
+         xml:space="preserve"
+         id="text1080"><tspan
+           x="8.1124496"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1074">P</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1076">A</tspan><tspan
+           x="8.3311996"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1078">L</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape260">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1083" />
+    </g>
+  </g>
+  <g
+     transform="translate(463.66,148.97)"
+     id="group261">
+    <g
+       id="shape262">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1087" />
+      <text
+         xml:space="preserve"
+         id="text1095"><tspan
+           x="7.9405751"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1089">P</tspan><tspan
+           x="7.7999501"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1091">R</tspan><tspan
+           x="7.7062001"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1093">C</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape263">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1098" />
+    </g>
+  </g>
+  <g
+     transform="translate(493.43,128.18)"
+     id="group264">
+    <g
+       id="shape265">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1102" />
+      <text
+         xml:space="preserve"
+         id="text1110"><tspan
+           x="8.1124496"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1104">P</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1106">A</tspan><tspan
+           x="7.2999501"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1108">H</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape266">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1113" />
+    </g>
+  </g>
+  <g
+     transform="translate(589.52,126.1)"
+     id="group267">
+    <g
+       transform="translate(0,9.07)"
+       id="shape268">
+      <path
+         fill="#ffffff"
+         d="M 0,0 V 20.4 H 20.4 Z"
+         stroke="#000000"
+         id="path1117" />
+    </g>
+    <g
+       id="shape269">
+      <path
+         stroke="#000000"
+         d="M 0,29.4 10.2,19.2 V 0"
+         fill="none"
+         id="path1120" />
+    </g>
+    <g
+       transform="translate(7.69,0.5)"
+       id="shape270">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1123" />
+    </g>
+    <g
+       transform="translate(7.69,2.02)"
+       id="shape271">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1126" />
+    </g>
+    <g
+       transform="translate(7.69,7.12)"
+       id="shape272">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1129" />
+    </g>
+    <g
+       transform="translate(7.69,8.63)"
+       id="shape273">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1132" />
+    </g>
+  </g>
+  <g
+     transform="translate(451.29,138.57)"
+     id="shape274">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 42.1"
+       fill="none"
+       id="path1136" />
+  </g>
+  <g
+     transform="translate(474.06,104.37)"
+     id="shape275">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 V 75.5"
+       fill="none"
+       id="path1139" />
+  </g>
+  <g
+     transform="translate(474.06,200.75)"
+     id="shape276">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 6.1 H 20.7"
+       fill="none"
+       id="path1142" />
+  </g>
+  <g
+     transform="translate(495.32,213.47)"
+     id="shape277">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 1 H -25 V 9"
+       fill="none"
+       id="path1145" />
+  </g>
+  <g
+     transform="rotate(90,127.85,482.65)"
+     id="Tank2">
+    <path
+       fill="#ffffff"
+       d="m 0,92.2 c 5.7,3.5 13.5,5.5 21.7,5.5 8.1,0 16,-2 21.7,-5.5 V 5.4 C 37.7,1.9 29.8,0 21.7,0 13.5,0 5.7,1.9 -0.1,5.4 Z"
+       stroke="#000000"
+       id="path1148" />
+  </g>
+  <g
+     transform="translate(504.45,437.72)"
+     id="shape279">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 50.8 H 74 V 43.7 H 90.7 V 3.9"
+       fill="none"
+       id="path1151" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 90.7,0.5 -3,4.2 v 0 c 0.8,-0.5 1.9,-0.8 3,-0.8 1.1,0 2.1,0.3 3,0.8 z"
+       id="path1153" />
+  </g>
+  <g
+     transform="translate(567.03,477.64)"
+     id="group280">
+    <g
+       transform="translate(2.17,10.36)"
+       id="shape281">
+      <path
+         fill="#ffffff"
+         d="M 0,11.2 H 18.9 L 9.4,0 Z"
+         stroke="#000000"
+         id="path1156" />
+    </g>
+    <g
+       transform="translate(1.01)"
+       id="shape282">
+      <path
+         fill="#ffffff"
+         d="m 18.1,7.8 c 0,0 1,8.6 -7.5,10.1 C 2.4,19.4 0,10.6 0,10.6 0,10.6 -1.3,2.4 7.7,0 h 13.5 v 7.8 z"
+         stroke="#000000"
+         id="path1159" />
+    </g>
+    <g
+       transform="translate(0,7.53)"
+       id="shape283">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 3.6 V 5.5 H 0 Z"
+         stroke="#000000"
+         id="path1162" />
+    </g>
+  </g>
+  <g
+     transform="translate(542.37,485.52)"
+     id="group284">
+    <g
+       id="shape285">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1166" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape286">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1169" />
+    </g>
+  </g>
+  <g
+     transform="rotate(-90,528,-64.3)"
+     id="group287">
+    <g
+       id="shape288">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1173" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape289">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1176" />
+    </g>
+  </g>
+  <g
+     transform="translate(595.35,472.56)"
+     id="shape290">
+    <path
+       stroke="#000000"
+       d="m 0,0 v 0.2 h 12.7 v 21"
+       fill="none"
+       id="path1180" />
+  </g>
+  <g
+     transform="translate(578.18,499.27)"
+     id="shape291">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 33.7 H -28.6"
+       fill="none"
+       id="path1183" />
+  </g>
+  <g
+     transform="translate(561.63,398.23)"
+     id="shape292">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 19 H -57.2 V 39.4"
+       fill="none"
+       id="path1186" />
+  </g>
+  <g
+     transform="translate(561.63,398.23)"
+     id="shape293">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 18.8 H 60.3 V 39"
+       fill="none"
+       id="path1189" />
+  </g>
+  <g
+     transform="translate(570.15,414.29)"
+     id="group294">
+    <g
+       id="shape295">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1192" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape296">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1195" />
+    </g>
+  </g>
+  <g
+     transform="translate(531.79,414.29)"
+     id="group297">
+    <g
+       id="shape298">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1199" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape299">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1202" />
+    </g>
+  </g>
+  <g
+     transform="translate(621.93,437.28)"
+     id="shape300">
+    <path
+       stroke="#000000"
+       d="m 0,0 v 44.4 h 53.2 v -6.8 h 29 V 4.8"
+       fill="none"
+       id="path1206" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 82.2,1.4 -3,4.2 v 0 c 0.8,-0.5 1.9,-0.8 3,-0.8 1,0 2.1,0.3 3,0.8 z"
+       id="path1208" />
+  </g>
+  <g
+     transform="rotate(-90,582.4,-118.7)"
+     id="group301">
+    <g
+       id="shape302">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1211" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape303">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1214" />
+    </g>
+  </g>
+  <g
+     transform="translate(660.67,471.13)"
+     id="group304">
+    <g
+       transform="translate(2.17,10.36)"
+       id="shape305">
+      <path
+         fill="#ffffff"
+         d="M 0,11.2 H 18.9 L 9.4,0 Z"
+         stroke="#000000"
+         id="path1218" />
+    </g>
+    <g
+       transform="translate(1.01)"
+       id="shape306">
+      <path
+         fill="#ffffff"
+         d="m 18.1,7.8 c 0,0 1,8.6 -7.5,10.1 C 2.4,19.4 0,10.6 0,10.6 0,10.6 -1.3,2.4 7.7,0 h 13.5 v 7.8 z"
+         stroke="#000000"
+         id="path1221" />
+    </g>
+    <g
+       transform="translate(0,7.53)"
+       id="shape307">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 3.6 V 5.5 H 0 Z"
+         stroke="#000000"
+         id="path1224" />
+    </g>
+  </g>
+  <g
+     transform="translate(634.03,479.01)"
+     id="group308">
+    <g
+       id="shape309">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1228" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape310">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1231" />
+    </g>
+  </g>
+  <g
+     transform="translate(671.82,492.76)"
+     id="shape311">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 37.3 H -26.2"
+       fill="none"
+       id="path1235" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m -29.6,37.3 4.2,3 v 0 c -0.5,-0.9 -0.8,-1.9 -0.8,-3 0,-1.1 0.3,-2.1 0.8,-3 z"
+       id="path1237" />
+  </g>
+  <g
+     transform="translate(696.13,474.95)"
+     id="shape312">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 0.4 V 11.7"
+       fill="none"
+       id="path1240" />
+  </g>
+  <g
+     transform="translate(902.56,66.57)"
+     id="group313">
+    <g
+       transform="translate(0,-0.01)"
+       id="shape314">
+      <path
+         fill="#ffffff"
+         d="M 0,14.1 C 0,6.3 6.3,0 14.1,0 21.9,0 28.2,6.3 28.2,14.1 28.2,21.9 21.9,28.2 14.1,28.2 6.3,28.2 0,21.9 0,14.1 Z"
+         stroke="#000000"
+         id="path1243" />
+    </g>
+    <g
+       transform="rotate(-90,21.15,7.05)"
+       id="shape315">
+      <path
+         fill="#000000"
+         d="M 0,0 C 0,0 27.8,0.4 28.2,0 28.2,7.8 21.9,14.1 14.1,14.1 6.3,14.1 0,7.8 0,0 Z"
+         stroke="#000000"
+         id="path1246" />
+    </g>
+  </g>
+  <g
+     transform="translate(533.11,355.52)"
+     id="Line3">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -274.8 H 365"
+       fill="none"
+       id="path1250" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 368.4,-274.8 -4.2,-3 v 0 c 0.5,0.9 0.8,1.9 0.8,3 0,1.1 -0.3,2.1 -0.8,3 z"
+       id="path1252" />
+  </g>
+  <g
+     transform="rotate(-90,369.7,-154.5)"
+     id="shape317">
+    <path
+       fill="#ffffff"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z"
+       id="path1255" />
+    <path
+       stroke="#000000"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z M 8.4,8.4 V 0 M 4.2,0 h 8.4"
+       fill="none"
+       id="path1257" />
+  </g>
+  <g
+     transform="translate(549.65,147.46)"
+     id="shape318">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 16.8 H 12.9 V 50 h 15.9"
+       fill="none"
+       id="path1260" />
+  </g>
+  <g
+     transform="translate(555.69,144.62)"
+     id="group319">
+    <g
+       transform="translate(0,9.07)"
+       id="shape320">
+      <path
+         fill="#ffffff"
+         d="M 0,0 V 20.4 H 20.4 Z"
+         stroke="#000000"
+         id="path1263" />
+    </g>
+    <g
+       id="shape321">
+      <path
+         stroke="#000000"
+         d="M 0,29.4 10.2,19.2 V 0"
+         fill="none"
+         id="path1266" />
+    </g>
+    <g
+       transform="translate(7.69,0.5)"
+       id="shape322">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1269" />
+    </g>
+    <g
+       transform="translate(7.69,2.02)"
+       id="shape323">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1272" />
+    </g>
+    <g
+       transform="translate(7.69,7.12)"
+       id="shape324">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1275" />
+    </g>
+    <g
+       transform="translate(7.69,8.63)"
+       id="shape325">
+      <path
+         stroke="#000000"
+         d="M 5,0 0,5"
+         fill="none"
+         id="path1278" />
+    </g>
+  </g>
+  <g
+     transform="translate(578.72,203.58)"
+     id="shape326">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -18.1 V 63.6"
+       fill="none"
+       id="path1282" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m -18.1,67 3,-4.2 v 0 c -0.8,0.5 -1.9,0.8 -3,0.8 -1.1,0 -2.1,-0.3 -3,-0.8 z"
+       id="path1284" />
+  </g>
+  <g
+     transform="rotate(-90,405.9,-151.9)"
+     id="group327">
+    <g
+       id="shape328">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1287" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape329">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1290" />
+    </g>
+  </g>
+  <g
+     transform="translate(567.79,227.58)"
+     id="shape330">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -7 V 0.1"
+       fill="none"
+       id="path1294" />
+  </g>
+  <g
+     transform="translate(600.67,212.56)"
+     id="Line2">
+    <path
+       stroke="#000000"
+       d="m 0,0 v 110.2 h 0.4 v 27.6"
+       fill="none"
+       id="path1297" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m 0.4,141.2 3,-4.2 v 0 c -0.9,0.5 -1.9,0.8 -3,0.8 -1.1,0 -2.1,-0.3 -3,-0.8 z"
+       id="path1299" />
+  </g>
+  <g
+     transform="rotate(-90,431.9,-195.8)"
+     id="group332">
+    <g
+       id="shape333">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1302" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape334">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1305" />
+    </g>
+  </g>
+  <g
+     transform="translate(630.37,212.91)"
+     id="shape335">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 0.2 V 31.3"
+       fill="none"
+       id="path1309" />
+  </g>
+  <g
+     transform="translate(723.9,272.56)"
+     id="shape336">
+    <path
+       stroke="#000000"
+       d="M 0,0 V -70 H -61.2"
+       fill="none"
+       id="path1312" />
+    <path
+       stroke-linecap="round"
+       stroke-width="1"
+       fill="#000000"
+       stroke="#000000"
+       d="m -64.6,-70 4.2,3 v 0 c -0.5,-0.9 -0.8,-1.9 -0.8,-3 0,-1.1 0.3,-2.1 0.8,-3 z"
+       id="path1314" />
+  </g>
+  <g
+     transform="translate(702.15,194.23)"
+     id="shape337">
+    <path
+       fill="#ffffff"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z"
+       id="path1317" />
+    <path
+       stroke="#000000"
+       d="m 0,4.2 v 8.4 L 16.8,4.2 v 8.4 z M 8.4,8.4 V 0 M 4.2,0 h 8.4"
+       fill="none"
+       id="path1319" />
+  </g>
+  <g
+     transform="translate(723.85,253.72)"
+     id="shape338">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 0.7 V -0.1 H -7.5"
+       fill="none"
+       id="path1322" />
+  </g>
+  <g
+     transform="translate(533.36,256.24)"
+     id="shape339">
+    <path
+       stroke="#000000"
+       d="M 0,0 H -38.1 V -100.6 H -0.3"
+       fill="none"
+       id="path1325" />
+  </g>
+  <g
+     transform="rotate(-90,336.4,-156)"
+     id="group340">
+    <g
+       id="shape341">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1328" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape342">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1331" />
+    </g>
+  </g>
+  <g
+     transform="rotate(-90,352.6,-139.1)"
+     id="group343">
+    <g
+       id="shape344">
+      <path
+         fill="#ffffff"
+         d="M 6.5,3.5 0,7.1 V 0 Z"
+         stroke="#000000"
+         id="path1335" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,13.2,0)"
+       id="shape345">
+      <path
+         fill="#ffffff"
+         d="M 6.5,3.5 0,7.1 V 0 Z"
+         stroke="#000000"
+         id="path1338" />
+    </g>
+  </g>
+  <g
+     transform="rotate(-90,366.95,-125.45)"
+     id="group346">
+    <g
+       id="shape347">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1342" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape348">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1345" />
+    </g>
+  </g>
+  <g
+     transform="translate(512.95,383.43)"
+     id="shape349">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 1.5 H -42.6"
+       fill="none"
+       id="path1349" />
+  </g>
+  <g
+     transform="translate(488.04,380.17)"
+     id="group350">
+    <g
+       id="shape351">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1352" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape352">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1355" />
+    </g>
+  </g>
+  <g
+     transform="translate(488.23,319.8)"
+     id="shape353">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 16.8 H 36.5 V 35.4"
+       fill="none"
+       id="path1359" />
+  </g>
+  <g
+     transform="translate(545.87,321.69)"
+     id="shape354">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 17 H -0.2 V 33.3"
+       fill="none"
+       id="path1362" />
+  </g>
+  <g
+     transform="translate(572.04,321.69)"
+     id="shape355">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 17 H 0.6 V 33"
+       fill="none"
+       id="path1365" />
+  </g>
+  <g
+     transform="translate(586.05,398.23)"
+     id="shape356">
+    <path
+       stroke="#000000"
+       d="M 0,0 V 5.6 H 66.5"
+       fill="none"
+       id="path1368" />
+  </g>
+  <g
+     transform="translate(627.88,400.96)"
+     id="group357">
+    <g
+       id="shape358">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1371" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,10.8,0)"
+       id="shape359">
+      <path
+         fill="#ffffff"
+         d="M 5.3,2.9 0,5.8 V 0 Z"
+         stroke="#000000"
+         id="path1374" />
+    </g>
+  </g>
+  <g
+     transform="translate(707.66,333.29)"
+     id="group360">
+    <g
+       id="shape361">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1378" />
+      <text
+         xml:space="preserve"
+         id="text1386"><tspan
+           x="8.2686996"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1380">L</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1382">A</tspan><tspan
+           x="7.2999501"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1384">H</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape362">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1389" />
+    </g>
+  </g>
+  <g
+     transform="translate(734.75,333.29)"
+     id="group363">
+    <g
+       id="shape364">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1393" />
+      <text
+         xml:space="preserve"
+         id="text1401"><tspan
+           x="8.2686996"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1395">L</tspan><tspan
+           x="7.5655751"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1397">A</tspan><tspan
+           x="8.3311996"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1399">L</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape365">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1404" />
+    </g>
+  </g>
+  <g
+     transform="translate(610.48,376.5)"
+     id="shape366">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 74.7"
+       fill="none"
+       id="path1408" />
+  </g>
+  <g
+     transform="translate(685.24,366.1)"
+     id="shape367">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path1411" />
+    <text
+       xml:space="preserve"
+       id="text1417"><tspan
+         x="8.4561996"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1413">L</tspan><tspan
+         x="8.0968246"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1415">T</tspan></text>
+  </g>
+  <g
+     transform="translate(637.05,366.1)"
+     id="shape368">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path1420" />
+    <text
+       xml:space="preserve"
+       id="text1426"><tspan
+         x="8.3311996"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1422">L</tspan><tspan
+         x="8.1905746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1424">E</tspan></text>
+  </g>
+  <g
+     transform="translate(706.02,376.5)"
+     id="shape369">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 12 V -22.5"
+       fill="none"
+       id="path1429" />
+  </g>
+  <g
+     transform="translate(706.02,376.5)"
+     id="shape370">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="M 0,0 H 39.1 V -22.5"
+       fill="none"
+       id="path1432" />
+  </g>
+  <g
+     transform="translate(706.02,376.5)"
+     id="shape371">
+    <path
+       stroke="#000000"
+       stroke-dasharray="3, 3"
+       d="m 0,0 h 79.5 v -1.9 h 10"
+       fill="none"
+       id="path1435" />
+  </g>
+  <g
+     transform="translate(753.84,366.1)"
+     id="group372">
+    <g
+       id="shape373">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1438" />
+      <text
+         xml:space="preserve"
+         id="text1444"><tspan
+           x="7.1593251"
+           y="7.2999501"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1440">LI</tspan><tspan
+           x="7.7062001"
+           y="16.8937"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1442">C</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape374">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1447" />
+    </g>
+  </g>
+  <g
+     transform="translate(805.99,385)"
+     id="shape375">
+    <path
+       stroke="#000000"
+       d="m 0,0 v 13.3 h -0.2 v 32"
+       fill="none"
+       id="path1451" />
+  </g>
+  <g
+     transform="translate(813.36,437.72)"
+     id="shape376">
+    <path
+       stroke="#000000"
+       d="M 0,0 H 10.8 V -15.5"
+       fill="none"
+       id="path1454" />
+  </g>
+  <g
+     transform="translate(306.17,212.4)"
+     id="shape377">
+    <text
+       xml:space="preserve"
+       id="text1459"><tspan
+         x="26.511774"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1457">3&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(43.84,202.1)"
+     id="shape378">
+    <text
+       xml:space="preserve"
+       id="text1464"><tspan
+         x="35.652401"
+         y="7.3888898"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1462">T-101</tspan></text>
+  </g>
+  <g
+     transform="translate(326.7,124.78)"
+     id="group379">
+    <g
+       id="shape380">
+      <path
+         fill="#ffffff"
+         d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+         stroke="#000000"
+         id="path1467" />
+      <text
+         xml:space="preserve"
+         id="text1475"><tspan
+           x="8.2686996"
+           y="2.5030999"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1469">F</tspan><tspan
+           x="7.7999501"
+           y="12.09685"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1471">R</tspan><tspan
+           x="7.7062001"
+           y="21.690599"
+           style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+           id="tspan1473">C</tspan></text>
+    </g>
+    <g
+       transform="translate(2.08,17.05)"
+       id="shape381">
+      <path
+         stroke="#000000"
+         d="M 0,0 H 16.6"
+         fill="none"
+         id="path1478" />
+    </g>
+  </g>
+  <g
+     transform="translate(96.56,310.29)"
+     id="shape382">
+    <text
+       xml:space="preserve"
+       id="text1484"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1482">3&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(206.18,539.52)"
+     id="shape383">
+    <text
+       xml:space="preserve"
+       id="text1491"><tspan
+         x="13.55395"
+         y="0.99044001"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1487">E-</tspan><tspan
+         x="9.9914503"
+         y="13.787315"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1489">106</tspan></text>
+  </g>
+  <g
+     transform="translate(218.36,409.5)"
+     id="shape384">
+    <text
+       xml:space="preserve"
+       id="text1496"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1494">6&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(284.13,579.58)"
+     id="shape385">
+    <text
+       xml:space="preserve"
+       id="text1501"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1499">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(232.06,623.8)"
+     id="shape386">
+    <text
+       xml:space="preserve"
+       id="text1506"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1504">2&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(397.57,527.24)"
+     id="shape387">
+    <text
+       xml:space="preserve"
+       id="text1511"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1509">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(500.34,453.54)"
+     id="shape388">
+    <text
+       xml:space="preserve"
+       id="text1516"><tspan
+         x="31.496149"
+         y="7.3888898"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1514">P-102A</tspan></text>
+  </g>
+  <g
+     transform="translate(533.4,423.49)"
+     id="shape389">
+    <text
+       xml:space="preserve"
+       id="text1521"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1519">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(611.36,453.54)"
+     id="shape390">
+    <text
+       xml:space="preserve"
+       id="text1526"><tspan
+         x="31.496149"
+         y="7.3888898"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1524">P-102B</tspan></text>
+  </g>
+  <g
+     transform="translate(732.66,595.46)"
+     id="shape391">
+    <text
+       xml:space="preserve"
+       id="text1531"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1529">2&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(853.25,579.58)"
+     id="shape392">
+    <text
+       xml:space="preserve"
+       id="text1536"><tspan
+         x="30.605524"
+         y="7.3888898"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1534">Toluene</tspan></text>
+  </g>
+  <g
+     transform="translate(869.3,454.48)"
+     id="shape393">
+    <text
+       xml:space="preserve"
+       id="text1541"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1539">2&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(624.76,283.83)"
+     id="shape394">
+    <text
+       xml:space="preserve"
+       id="text1546"><tspan
+         x="13.62395"
+         y="7.3888898"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1544">E-104</tspan></text>
+  </g>
+  <g
+     transform="rotate(-90,470,-135.1)"
+     id="shape395">
+    <text
+       xml:space="preserve"
+       id="text1551"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1549">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(655.94,217.69)"
+     id="shape396">
+    <text
+       xml:space="preserve"
+       id="text1556"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1554">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(721.89,89.19)"
+     id="shape397">
+    <text
+       xml:space="preserve"
+       id="text1561"><tspan
+         x="7.4479752"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1559">4&quot;Sch 40 CS</tspan></text>
+  </g>
+  <g
+     transform="translate(853.25,50.04)"
+     id="shape398">
+    <text
+       xml:space="preserve"
+       id="text1568"><tspan
+         x="17.483324"
+         y="0.99044001"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1564">Fuel </tspan><tspan
+         x="18.077074"
+         y="13.787315"
+         style="font-weight:normal;font-size:10.6667px;font-family:Arial;fill:#303030"
+         id="tspan1566">Gas</tspan></text>
+  </g>
+  <g
+     transform="translate(199.3,54.83)"
+     id="shape399">
+    <text
+       xml:space="preserve"
+       id="text1573"><tspan
+         x="24.277399"
+         y="6.4904652"
+         style="font-weight:normal;font-size:8px;font-family:Arial;fill:#303030"
+         id="tspan1571">12&quot;Sch 10 CS</tspan></text>
+  </g>
+  <g
+     transform="rotate(-90,388.75,-27.05)"
+     id="group400">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape401">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path1576" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape402">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path1579" />
+    </g>
+    <g
+       id="shape403">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path1582" />
+    </g>
+  </g>
+  <g
+     transform="translate(199.85,608.24)"
+     id="group404">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape405">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path1586" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape406">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path1589" />
+    </g>
+    <g
+       id="shape407">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path1592" />
+    </g>
+  </g>
+  <g
+     transform="translate(236.89,593.19)"
+     id="group408">
+    <g
+       transform="translate(1.44,0.04)"
+       id="shape409">
+      <path
+         fill="#ffffff"
+         d="M 6.2,-0.1 H 0.4 c 0,0 -1.8,2.5 1.5,4.3 z"
+         stroke="#000000"
+         id="path1596" />
+    </g>
+    <g
+       transform="rotate(180,16.15,6)"
+       id="shape410">
+      <path
+         fill="#ffffff"
+         d="M 6.2,0 H 0.4 c 0,0 -1.8,2.5 1.5,4.2 z"
+         stroke="#000000"
+         id="path1599" />
+    </g>
+    <g
+       id="shape411">
+      <path
+         fill="#ffffff"
+         d="M 7.6,0 0,7.6 4.2,11.9 H 26 L 34.2,3.8 30.3,0 Z"
+         stroke="#000000"
+         id="path1602" />
+    </g>
+  </g>
+  <g
+     transform="translate(219.79,384.06)"
+     id="shape412">
+    <path
+       fill="#ffffff"
+       d="M 0,10.3 C 0,4.6 4.6,0 10.3,0 16.1,0 20.7,4.6 20.7,10.3 20.7,16.1 16.1,20.7 10.3,20.7 4.6,20.7 0,16.1 0,10.3 Z"
+       stroke="#000000"
+       id="path1606" />
+    <text
+       xml:space="preserve"
+       id="text1612"><tspan
+         x="8.0968246"
+         y="7.2999501"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1608">T</tspan><tspan
+         x="8.1905746"
+         y="16.8937"
+         style="font-weight:normal;font-size:8px;font-family:'Browallia New';fill:#303030"
+         id="tspan1610">E</tspan></text>
+  </g>
+</svg>
